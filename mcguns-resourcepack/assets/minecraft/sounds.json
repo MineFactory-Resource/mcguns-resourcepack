@@ -1,0 +1,318 @@
+{
+  "cs.random.headshot_shooter": {
+    "category": "master",
+    "sounds": [
+      "cs/random/headshot_shooter"
+    ]
+  },
+  "cs.random.headshot_victim": {
+    "category": "master",
+    "sounds": [
+      "cs/random/headshot_victim"
+    ]
+  },
+  "cs.random.reload_end": {
+    "category": "master",
+    "sounds": [
+      "cs/random/reload_end"
+    ]
+  },
+  "cs.random.reload_start": {
+    "category": "master",
+    "sounds": [
+      "cs/random/reload_start"
+    ]
+  },
+  "cs.random.reload_fire": {
+    "category": "master",
+    "sounds": [
+      "cs/random/reload_fire"
+    ]
+  },
+  "cs.gamesounds.bombdroppedyourteam": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/bombdroppedyourteam"
+    ]
+  },
+  "cs.gamesounds.winteamcreepers": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/winteamcreepers"
+    ]
+  },
+  "cs.gamesounds.winteamocelots": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/winteamocelots"
+    ]
+  },
+  "cs.gamesounds.secondsremain": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/30secondsremain"
+    ]
+  },
+  "cs.throwables.explodegrenade": {
+    "category": "master",
+    "sounds": [
+      "cs/throwables/explodegrenade"
+    ]
+  },
+  "cs.gamesounds.throwingflashbang": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/throwingflashbang"
+    ]
+  },
+  "cs.gamesounds.wilhelm": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/wilhelm"
+    ]
+  },
+  "cs.gamesounds.criminalswinthegame": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/criminalswinthegame"
+    ]
+  },
+  "cs.gamesounds.throwinggrenade": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/throwinggrenade"
+    ]
+  },
+  "cs.gamesounds.copswinthegame": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/copswinthegame"
+    ]
+  },
+  "cs.gamesounds.oneenemyleft": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/oneenemyleft"
+    ]
+  },
+  "random.eat": {
+    "category": "master",
+    "sounds": [
+      "random/eat1",
+      "random/eat2",
+      "random/eat3"
+    ]
+  },
+  "cs.shop.shopmenuclose": {
+    "category": "master",
+    "sounds": [
+      "cs/shop/shopmenuclose"
+    ]
+  },
+  "cs.shop.shopbuyitem": {
+    "category": "master",
+    "sounds": [
+      "cs/shop/shopbuyitem"
+    ]
+  },
+  "cs.gamesounds.droppedagun": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/droppedagun"
+    ]
+  },
+  "cs.gamesounds.bombdefused": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/bombdefused"
+    ]
+  },
+  "cs.gamesounds.oneteammateleft": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/oneteammateleft"
+    ]
+  },
+  "cs.gamesounds.reloading": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/reloading1",
+      "cs/gamesounds/reloading2",
+      "cs/gamesounds/reloading3"
+    ]
+  },
+  "cs.gamesounds.swappingsides": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/swappingsides"
+    ]
+  },
+  "cs.throwables.explodeflashbang": {
+    "category": "master",
+    "sounds": [
+      "cs/throwables/explodeflashbang"
+    ]
+  },
+  "cs.throwables.explodefirebomb": {
+    "category": "master",
+    "sounds": [
+      "cs/throwables/explodefirebomb"
+    ]
+  },
+  "cs.gamesounds.throwingsmoke": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/throwingsmoke"
+    ]
+  },
+  "cs.shop.shopcantbuy": {
+    "category": "master",
+    "sounds": [
+      "cs/shop/shopcantbuy"
+    ]
+  },
+  "cs.throwables.grenadethrow": {
+    "category": "master",
+    "sounds": [
+      "cs/throwables/grenadethrow"
+    ]
+  },
+  "cs.gamesounds.bombbeep": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/bombbeep"
+    ]
+  },
+  "cs.gamesounds.headshotkill": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/headshotkill"
+    ]
+  },
+  "cs.throwables.explodesmoke": {
+    "category": "master",
+    "sounds": [
+      "cs/throwables/explodesmoke"
+    ]
+  },
+  "cs.gamesounds.bombplanted": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/bombplanted"
+    ]
+  },
+  "cs.gamesounds.pickedupthebomb": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/pickedupthebomb"
+    ]
+  },
+  "cs.gamesounds.roundstart": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/roundstart1",
+      "cs/gamesounds/roundstart2",
+      "cs/gamesounds/roundstart3",
+      "cs/gamesounds/roundstart4"
+    ]
+  },
+  "cs.gamesounds.throwingdecoy": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/throwingdecoy"
+    ]
+  },
+  "cs.gamesounds.throwingfirebomb": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/throwingfirebomb"
+    ]
+  },
+  "cs.shop.boughtarmor": {
+    "category": "master",
+    "sounds": [
+      "cs/shop/boughtarmor"
+    ]
+  },
+  "cs.gamesounds.spawnedin": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/spawnedin"
+    ]
+  },
+  "cs.shop.shopmenuopen": {
+    "category": "master",
+    "sounds": [
+      "cs/shop/shopmenuopen"
+    ]
+  },
+  "random.bowhit": {
+    "category": "master",
+    "sounds": [
+      "random/bowhit1",
+      "random/bowhit2",
+      "random/bowhit3",
+      "random/bowhit4"
+    ]
+  },
+  "cs.weapons.p250shot": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/p250"
+    ]
+  },
+  "cs.weapons.desert_eagleshot": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/desert_eagle"
+    ]
+  },
+  "cs.weapons.r8_revolvershot": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/r8_revolver"
+    ]
+  },
+  "cs.weapons.novashot": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/nova"
+    ]
+  },
+  "cs.weapons.p90shot": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/p90"
+    ]
+  },
+  "cs.weapons.ak47shot": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/ak47"
+    ]
+  },
+  "cs.weapons.m4a4shot": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/m4a4"
+    ]
+  },
+  "cs.weapons.awpshot": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/awp"
+    ]
+  },
+  "cs.weapons.scar20shot": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/scar20"
+    ]
+  },
+  "cs.weapons.knifeswing": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/knifeswing"
+    ]
+  }
+}

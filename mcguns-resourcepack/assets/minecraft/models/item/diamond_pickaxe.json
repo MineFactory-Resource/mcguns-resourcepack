@@ -1,0 +1,13 @@
+{
+  "parent": "csgo/gun/p90/p90_a",
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "csgo/gun/p90/p90_a"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "csgo/gun/p90/p90_b"
+    }
+  ]
+}

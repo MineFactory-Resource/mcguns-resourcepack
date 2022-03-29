@@ -1,0 +1,13 @@
+{
+  "parent": "csgo/gun/awp/awp_a",
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "csgo/gun/awp/awp_a"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "csgo/gun/awp/awp_b"
+    }
+  ]
+}

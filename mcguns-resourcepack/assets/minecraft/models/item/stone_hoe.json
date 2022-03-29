@@ -1,0 +1,13 @@
+{
+  "parent": "csgo/gun/ak47/ak47_a",
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "csgo/gun/ak47/ak47_a"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "csgo/gun/ak47/ak47_b"
+    }
+  ]
+}
