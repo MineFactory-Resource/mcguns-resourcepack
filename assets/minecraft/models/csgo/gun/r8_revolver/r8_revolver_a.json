@@ -1,0 +1,3988 @@
+{
+	"__comment": "Designed by All_Lie with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"r8_revolver_a": "csgo/gun/r8_revolver/r8_revolver_a",
+		"particle": "csgo/gun/r8_revolver/r8_revolver_a"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "parts_",
+			"from": [ 6.125, 11.625, 8.875 ],
+			"to": [ 9.875, 13.125, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_1",
+			"from": [ 6.125, 11.625, 11.25 ],
+			"to": [ 9.875, 13.125, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_2",
+			"from": [ 6.125, 12.125, 6.125 ],
+			"to": [ 9.875, 12.625, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_3",
+			"from": [ 6.375, 11.375, 8.875 ],
+			"to": [ 9.625, 11.625, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_4",
+			"from": [ 6.375, 11.375, 11.25 ],
+			"to": [ 9.625, 11.625, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_5",
+			"from": [ 6.375, 11.625, 6.125 ],
+			"to": [ 9.625, 12.125, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_6",
+			"from": [ 6.375, 11.625, 11.375 ],
+			"to": [ 7.375, 13.125, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_7",
+			"from": [ 6.375, 12.625, 6.125 ],
+			"to": [ 9.625, 13.125, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_8",
+			"from": [ 6.375, 13.125, 8.875 ],
+			"to": [ 9.625, 13.375, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_9",
+			"from": [ 6.375, 13.125, 11.25 ],
+			"to": [ 9.625, 13.375, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_10",
+			"from": [ 6.625, 11.125, 6.125 ],
+			"to": [ 9.375, 11.625, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_11",
+			"from": [ 6.625, 11.125, 8.875 ],
+			"to": [ 9.375, 11.375, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_12",
+			"from": [ 6.625, 11.125, 11.25 ],
+			"to": [ 9.375, 11.375, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_13",
+			"from": [ 6.625, 11.375, 11.375 ],
+			"to": [ 7.375, 11.625, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_14",
+			"from": [ 6.625, 11.625, 11.5 ],
+			"to": [ 9.375, 13.125, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_15",
+			"from": [ 6.625, 12.875, 3.625 ],
+			"to": [ 9.375, 13.875, 5.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_16",
+			"from": [ 6.625, 12.875, 5.625 ],
+			"to": [ 9.375, 14.375, 5.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_17",
+			"from": [ 6.625, 13.125, 6.125 ],
+			"to": [ 9.375, 13.625, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_18",
+			"from": [ 6.625, 13.125, 11.375 ],
+			"to": [ 7.375, 13.375, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_19",
+			"from": [ 6.625, 13.375, 8.875 ],
+			"to": [ 9.375, 13.625, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_20",
+			"from": [ 6.625, 13.375, 11.25 ],
+			"to": [ 9.375, 13.625, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_21",
+			"from": [ 6.625, 13.875, 3.625 ],
+			"to": [ 9.375, 14.375, 5.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_22",
+			"from": [ 6.75, 10.75, -6.875 ],
+			"to": [ 9.25, 11.25, -5.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_23",
+			"from": [ 6.75, 10.75, -4.875 ],
+			"to": [ 9.25, 11.25, -1.875 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_24",
+			"from": [ 6.75, 11, -5.375 ],
+			"to": [ 9.25, 11.25, -4.875 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_25",
+			"from": [ 6.75, 11.75, -6.875 ],
+			"to": [ 9.25, 12, -1.875 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_26",
+			"from": [ 6.75, 11.75, 3.625 ],
+			"to": [ 9.25, 12.5, 5.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_27",
+			"from": [ 6.75, 11.75, 5.625 ],
+			"to": [ 9.25, 12.5, 5.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_28",
+			"from": [ 6.75, 12, -6.625 ],
+			"to": [ 7, 12.25, -2.125 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_29",
+			"from": [ 6.75, 12.25, -6.375 ],
+			"to": [ 7, 12.5, -2.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_30",
+			"from": [ 6.75, 12.75, -1.375 ],
+			"to": [ 7, 13, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_31",
+			"from": [ 6.75, 13, -7.375 ],
+			"to": [ 7.5, 13.25, -7.25 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_32",
+			"from": [ 6.75, 13, -7.25 ],
+			"to": [ 7, 13.75, -1.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_33",
+			"from": [ 6.75, 13, -1.375 ],
+			"to": [ 6.875, 13.75, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_34",
+			"from": [ 6.75, 13.25, -7.375 ],
+			"to": [ 7.25, 13.75, -7.25 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_35",
+			"from": [ 6.75, 13.75, -7.375 ],
+			"to": [ 7.25, 14.5, -7.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_36",
+			"from": [ 6.75, 13.75, -7.125 ],
+			"to": [ 7, 14.5, -2.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_37",
+			"from": [ 6.75, 13.75, -2.375 ],
+			"to": [ 7, 14.25, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_38",
+			"from": [ 6.875, 10.875, 6.125 ],
+			"to": [ 9.125, 11.125, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_39",
+			"from": [ 6.875, 10.875, 11.25 ],
+			"to": [ 9.125, 11.125, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_40",
+			"from": [ 6.875, 11.125, 11.375 ],
+			"to": [ 7.375, 11.375, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_41",
+			"from": [ 6.875, 11.375, 3.625 ],
+			"to": [ 9.125, 11.75, 5.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_42",
+			"from": [ 6.875, 11.375, 5.625 ],
+			"to": [ 9.125, 11.75, 5.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_43",
+			"from": [ 6.875, 11.375, 11.5 ],
+			"to": [ 9.125, 11.5, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_44",
+			"from": [ 6.875, 11.5, 11.5 ],
+			"to": [ 7.375, 11.625, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_45",
+			"from": [ 6.875, 12.5, 3.625 ],
+			"to": [ 9.125, 12.875, 5.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_46",
+			"from": [ 6.875, 12.5, 5.625 ],
+			"to": [ 9.125, 12.875, 5.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_47",
+			"from": [ 6.875, 13.125, 11.5 ],
+			"to": [ 7.375, 13.375, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_48",
+			"from": [ 6.875, 13.375, 11.375 ],
+			"to": [ 7.375, 13.625, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_49",
+			"from": [ 6.875, 13.625, 6.125 ],
+			"to": [ 9.125, 13.875, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_50",
+			"from": [ 6.875, 13.625, 11.25 ],
+			"to": [ 9.125, 13.875, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_51",
+			"from": [ 7, 11.25, -6.875 ],
+			"to": [ 9, 11.75, -1.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_52",
+			"from": [ 7, 12.25, -7.125 ],
+			"to": [ 9, 12.5, -7 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_53",
+			"from": [ 7, 12.25, -7 ],
+			"to": [ 9, 12.375, -6.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_54",
+			"from": [ 7, 12.25, -6.875 ],
+			"to": [ 7.25, 12.5, 0.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_55",
+			"from": [ 7, 12.375, -7 ],
+			"to": [ 7.25, 12.5, -6.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_56",
+			"from": [ 7, 12.5, -1.375 ],
+			"to": [ 7.25, 12.75, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_57",
+			"from": [ 7, 12.75, -7.375 ],
+			"to": [ 9, 13, -7.25 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_58",
+			"from": [ 7, 12.75, -7.25 ],
+			"to": [ 9, 12.875, -7.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_59",
+			"from": [ 7, 12.75, -7.125 ],
+			"to": [ 7.25, 13, -1.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_60",
+			"from": [ 7, 12.875, -7.25 ],
+			"to": [ 7.25, 13, -7.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_61",
+			"from": [ 7, 14.25, -2.375 ],
+			"to": [ 9, 14.5, -1.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_62",
+			"from": [ 7, 14.25, -1.375 ],
+			"to": [ 7.25, 14.5, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_63",
+			"from": [ 7, 14.375, 3.625 ],
+			"to": [ 9, 14.625, 5.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_64",
+			"from": [ 7, 14.5, -7.375 ],
+			"to": [ 9, 14.75, -7.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_65",
+			"from": [ 7, 14.5, -7.125 ],
+			"to": [ 7.25, 14.75, -2.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_66",
+			"from": [ 7, 14.5, 5.875 ],
+			"to": [ 9, 14.625, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_67",
+			"from": [ 7.125, 10.625, 8.875 ],
+			"to": [ 8.875, 10.875, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_68",
+			"from": [ 7.125, 10.625, 11.25 ],
+			"to": [ 8.875, 10.875, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_69",
+			"from": [ 7.125, 10.875, 3.625 ],
+			"to": [ 8.875, 11.375, 5.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_70",
+			"from": [ 7.125, 10.875, 5.625 ],
+			"to": [ 8.875, 11.375, 5.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_71",
+			"from": [ 7.125, 10.875, 11.375 ],
+			"to": [ 7.375, 11.125, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_72",
+			"from": [ 7.125, 11.125, 11.5 ],
+			"to": [ 8.875, 11.25, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_73",
+			"from": [ 7.125, 11.25, 11.5 ],
+			"to": [ 7.375, 11.375, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_74",
+			"from": [ 7.125, 13.375, 11.5 ],
+			"to": [ 8.875, 13.625, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_75",
+			"from": [ 7.125, 13.625, 11.375 ],
+			"to": [ 7.375, 13.875, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_76",
+			"from": [ 7.125, 13.875, 8.875 ],
+			"to": [ 8.875, 14.125, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_77",
+			"from": [ 7.125, 13.875, 11.25 ],
+			"to": [ 8.875, 14.125, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_78",
+			"from": [ 7.125, 14.625, 3.625 ],
+			"to": [ 8.875, 15.125, 4.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_79",
+			"from": [ 7.125, 14.625, 4.125 ],
+			"to": [ 8.875, 15.375, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_80",
+			"from": [ 7.25, -0.125, 19.375 ],
+			"to": [ 8.75, 7.625, 19.625 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_81",
+			"from": [ 7.25, -0.125, 19.625 ],
+			"to": [ 8.75, 7.375, 19.875 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_82",
+			"from": [ 7.25, -0.125, 19.875 ],
+			"to": [ 8.75, 6.875, 20.125 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_83",
+			"from": [ 7.25, -0.125, 20.125 ],
+			"to": [ 8.75, 6.375, 20.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_84",
+			"from": [ 7.25, -0.125, 20.375 ],
+			"to": [ 8.75, 5.625, 20.625 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_85",
+			"from": [ 7.25, -0.125, 20.625 ],
+			"to": [ 8.75, 4.125, 20.875 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_86",
+			"from": [ 7.25, 0.125, 17.375 ],
+			"to": [ 8.75, 11.625, 17.625 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_87",
+			"from": [ 7.25, 0.125, 17.625 ],
+			"to": [ 8.75, 10.125, 17.875 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_88",
+			"from": [ 7.25, 0.125, 17.875 ],
+			"to": [ 8.75, 9.875, 18.125 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_89",
+			"from": [ 7.25, 0.125, 18.125 ],
+			"to": [ 8.75, 9.375, 18.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_90",
+			"from": [ 7.25, 0.125, 18.375 ],
+			"to": [ 8.75, 9.125, 18.625 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_91",
+			"from": [ 7.25, 0.125, 18.625 ],
+			"to": [ 8.75, 8.625, 18.875 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_92",
+			"from": [ 7.25, 0.125, 18.875 ],
+			"to": [ 8.75, 8.375, 19.125 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_93",
+			"from": [ 7.25, 0.125, 19.125 ],
+			"to": [ 8.75, 8.125, 19.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_94",
+			"from": [ 7.25, 0.125, 20.875 ],
+			"to": [ 8.75, 3.125, 21.125 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_95",
+			"from": [ 7.25, 0.125, 21.125 ],
+			"to": [ 8.75, 2.125, 21.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_96",
+			"from": [ 7.25, 0.375, 16.25 ],
+			"to": [ 8.75, 11.875, 17.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_97",
+			"from": [ 7.25, 0.375, 21.375 ],
+			"to": [ 8.75, 1.625, 21.625 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_98",
+			"from": [ 7.25, 0.875, 15.875 ],
+			"to": [ 8.75, 12.125, 16.125 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_99",
+			"from": [ 7.25, 0.875, 16.125 ],
+			"to": [ 8.75, 11.875, 16.25 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_100",
+			"from": [ 7.25, 1.625, 15.625 ],
+			"to": [ 8.75, 12.125, 15.875 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_101",
+			"from": [ 7.25, 1.875, 15.375 ],
+			"to": [ 8.75, 2.875, 15.625 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_102",
+			"from": [ 7.25, 2.125, 15.125 ],
+			"to": [ 8.75, 2.625, 15.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_103",
+			"from": [ 7.25, 3.625, 15.375 ],
+			"to": [ 8.75, 5.375, 15.625 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_104",
+			"from": [ 7.25, 3.875, 15.125 ],
+			"to": [ 8.75, 4.875, 15.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_105",
+			"from": [ 7.25, 4.125, 14.875 ],
+			"to": [ 8.75, 4.625, 15.125 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_106",
+			"from": [ 7.25, 5.875, 12.375 ],
+			"to": [ 8.75, 8.375, 14.125 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_107",
+			"from": [ 7.25, 6.125, 14.125 ],
+			"to": [ 8.75, 8.875, 14.625 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_108",
+			"from": [ 7.25, 6.125, 15.375 ],
+			"to": [ 8.75, 12.125, 15.625 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_109",
+			"from": [ 7.25, 6.375, 14.625 ],
+			"to": [ 8.75, 9.125, 15.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_110",
+			"from": [ 7.25, 8.375, 13.125 ],
+			"to": [ 8.75, 8.625, 14.125 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_111",
+			"from": [ 7.25, 8.625, 13.875 ],
+			"to": [ 8.75, 8.875, 14.125 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_112",
+			"from": [ 7.25, 9.125, 14.875 ],
+			"to": [ 8.75, 9.875, 15.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_113",
+			"from": [ 7.25, 9.875, 4.375 ],
+			"to": [ 8.75, 10.125, 5.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_114",
+			"from": [ 7.25, 9.875, 5.875 ],
+			"to": [ 8.75, 10, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_115",
+			"from": [ 7.25, 9.875, 15.125 ],
+			"to": [ 8.75, 12.125, 15.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_116",
+			"from": [ 7.25, 11.125, 14.875 ],
+			"to": [ 8.75, 11.875, 15.125 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_117",
+			"from": [ 7.25, 11.75, -1.375 ],
+			"to": [ 8.75, 11.875, -0.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_118",
+			"from": [ 7.25, 11.75, -0.625 ],
+			"to": [ 7.5, 12.25, 0.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_119",
+			"from": [ 7.25, 11.75, 0.125 ],
+			"to": [ 7.5, 12, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_120",
+			"from": [ 7.25, 11.875, -1.375 ],
+			"to": [ 7.5, 12.25, -0.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_121",
+			"from": [ 7.25, 12, -6.875 ],
+			"to": [ 8.75, 12.25, -1.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_122",
+			"from": [ 7.25, 12.25, 0 ],
+			"to": [ 7.625, 12.5, 0.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_123",
+			"from": [ 7.25, 12.5, -7.125 ],
+			"to": [ 8.75, 12.75, -7 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_124",
+			"from": [ 7.25, 12.5, -7 ],
+			"to": [ 7.5, 12.75, -1.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_125",
+			"from": [ 7.25, 12.5, 0.125 ],
+			"to": [ 7.625, 12.625, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_126",
+			"from": [ 7.25, 13.25, -7.375 ],
+			"to": [ 7.5, 14.25, -2.375 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_127",
+			"from": [ 7.25, 14.25, -7.375 ],
+			"to": [ 7.5, 14.5, -7.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_128",
+			"from": [ 7.25, 14.5, -2.375 ],
+			"to": [ 8.75, 14.75, -1.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_129",
+			"from": [ 7.25, 14.5, -1.375 ],
+			"to": [ 7.5, 14.75, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_130",
+			"from": [ 7.25, 14.75, -7.125 ],
+			"to": [ 8.75, 15, -6.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_131",
+			"from": [ 7.25, 14.75, -6.875 ],
+			"to": [ 7.5, 15, -2.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_132",
+			"from": [ 7.375, 5.125, 8.875 ],
+			"to": [ 8.625, 5.625, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_133",
+			"from": [ 7.375, 5.375, 8.125 ],
+			"to": [ 8.625, 5.875, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_134",
+			"from": [ 7.375, 5.375, 11.625 ],
+			"to": [ 8.625, 5.875, 11.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_135",
+			"from": [ 7.375, 5.625, 7.625 ],
+			"to": [ 8.625, 6.125, 8.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_136",
+			"from": [ 7.375, 5.625, 11.875 ],
+			"to": [ 8.625, 6.125, 12.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_137",
+			"from": [ 7.375, 5.875, 7.375 ],
+			"to": [ 8.625, 6.625, 7.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_138",
+			"from": [ 7.375, 5.875, 12.125 ],
+			"to": [ 8.625, 15.375, 12.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_139",
+			"from": [ 7.375, 6.125, 7.125 ],
+			"to": [ 8.625, 9.375, 7.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_140",
+			"from": [ 7.375, 6.625, 6.875 ],
+			"to": [ 8.625, 9.375, 7.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_141",
+			"from": [ 7.375, 7.875, 6.625 ],
+			"to": [ 8.625, 9.375, 6.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_142",
+			"from": [ 7.375, 7.875, 7.375 ],
+			"to": [ 8.625, 9.375, 7.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_143",
+			"from": [ 7.375, 7.875, 11.875 ],
+			"to": [ 8.625, 15.375, 12.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_144",
+			"from": [ 7.375, 8.125, 6.125 ],
+			"to": [ 8.625, 9.375, 6.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_145",
+			"from": [ 7.375, 8.125, 7.625 ],
+			"to": [ 8.625, 9.375, 7.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_146",
+			"from": [ 7.375, 8.125, 11.625 ],
+			"to": [ 8.625, 15.375, 11.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_147",
+			"from": [ 7.375, 8.375, 4.625 ],
+			"to": [ 8.625, 9.375, 6.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_148",
+			"from": [ 7.375, 8.375, 7.875 ],
+			"to": [ 8.625, 9.375, 8.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_149",
+			"from": [ 7.375, 8.375, 11.125 ],
+			"to": [ 8.625, 9.875, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_150",
+			"from": [ 7.375, 8.375, 12.375 ],
+			"to": [ 8.625, 15.375, 12.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_151",
+			"from": [ 7.375, 8.375, 12.625 ],
+			"to": [ 8.625, 14.375, 12.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_152",
+			"from": [ 7.375, 8.375, 12.875 ],
+			"to": [ 8.625, 13.875, 13.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_153",
+			"from": [ 7.375, 8.625, 4.375 ],
+			"to": [ 8.625, 9.375, 4.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_154",
+			"from": [ 7.375, 8.625, 8.375 ],
+			"to": [ 8.625, 9.375, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_155",
+			"from": [ 7.375, 8.625, 9.875 ],
+			"to": [ 8.625, 9.375, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_156",
+			"from": [ 7.375, 8.625, 13.125 ],
+			"to": [ 8.625, 13.375, 13.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_157",
+			"from": [ 7.375, 8.625, 13.375 ],
+			"to": [ 8.625, 12.875, 13.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_158",
+			"from": [ 7.375, 8.625, 13.625 ],
+			"to": [ 8.625, 12.625, 13.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_159",
+			"from": [ 7.375, 8.875, 8.875 ],
+			"to": [ 8.625, 9.375, 9.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_160",
+			"from": [ 7.375, 8.875, 13.875 ],
+			"to": [ 8.625, 12.625, 14.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_161",
+			"from": [ 7.375, 8.875, 14.375 ],
+			"to": [ 8.625, 12.375, 14.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_162",
+			"from": [ 7.375, 9.125, 14.625 ],
+			"to": [ 8.625, 12.375, 14.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_163",
+			"from": [ 7.375, 9.375, 4.375 ],
+			"to": [ 8.625, 9.875, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_164",
+			"from": [ 7.375, 9.875, 11.375 ],
+			"to": [ 8.625, 15.375, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_165",
+			"from": [ 7.375, 9.875, 11.5 ],
+			"to": [ 8.625, 11.125, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_166",
+			"from": [ 7.375, 9.875, 14.875 ],
+			"to": [ 8.625, 11.125, 15.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_167",
+			"from": [ 7.375, 10, 11.25 ],
+			"to": [ 8.625, 10.625, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_168",
+			"from": [ 7.375, 10.125, 4.125 ],
+			"to": [ 8.625, 10.875, 5.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_169",
+			"from": [ 7.375, 10.375, 8.875 ],
+			"to": [ 8.625, 10.625, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_170",
+			"from": [ 7.375, 10.625, 3.875 ],
+			"to": [ 8.625, 10.875, 4.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_171",
+			"from": [ 7.375, 10.625, 6.125 ],
+			"to": [ 8.625, 10.875, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_172",
+			"from": [ 7.375, 11.25, 11.5 ],
+			"to": [ 8.625, 11.375, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_173",
+			"from": [ 7.375, 11.5, 11.5 ],
+			"to": [ 8.625, 11.625, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_174",
+			"from": [ 7.375, 11.875, 14.875 ],
+			"to": [ 8.625, 12.375, 15.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_175",
+			"from": [ 7.375, 11.875, 16.125 ],
+			"to": [ 8.625, 12.125, 17.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_176",
+			"from": [ 7.375, 12.125, 15.125 ],
+			"to": [ 8.625, 12.375, 16.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_177",
+			"from": [ 7.375, 13.125, 11.5 ],
+			"to": [ 8.625, 13.375, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_178",
+			"from": [ 7.375, 13.625, 11.5 ],
+			"to": [ 8.625, 15.375, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_179",
+			"from": [ 7.375, 13.875, 6.125 ],
+			"to": [ 8.625, 14.125, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_180",
+			"from": [ 7.375, 14.125, 8.875 ],
+			"to": [ 8.625, 14.375, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_181",
+			"from": [ 7.375, 14.125, 11.25 ],
+			"to": [ 8.625, 14.5, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_182",
+			"from": [ 7.5, 11, 3.375 ],
+			"to": [ 8.5, 11.25, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_183",
+			"from": [ 7.5, 11.25, -0.375 ],
+			"to": [ 8.5, 11.5, -0.25 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_184",
+			"from": [ 7.5, 11.25, -0.25 ],
+			"to": [ 8.5, 11.375, 3.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_185",
+			"from": [ 7.5, 11.25, 3.375 ],
+			"to": [ 7.75, 11.75, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_186",
+			"from": [ 7.5, 11.375, -0.25 ],
+			"to": [ 7.75, 11.75, 3.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_187",
+			"from": [ 7.5, 11.5, -0.625 ],
+			"to": [ 8.5, 11.75, -0.5 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_188",
+			"from": [ 7.5, 11.5, -0.5 ],
+			"to": [ 8.5, 11.625, -0.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_189",
+			"from": [ 7.5, 11.5, -0.375 ],
+			"to": [ 7.75, 11.75, -0.25 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_190",
+			"from": [ 7.5, 11.625, -0.5 ],
+			"to": [ 7.75, 11.75, -0.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_191",
+			"from": [ 7.5, 11.875, 0.125 ],
+			"to": [ 7.625, 12, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_192",
+			"from": [ 7.5, 12, 0 ],
+			"to": [ 7.625, 12.25, 0.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_193",
+			"from": [ 7.5, 13, -7.375 ],
+			"to": [ 8.5, 13.25, -2.375 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_194",
+			"from": [ 7.5, 13.25, -2.625 ],
+			"to": [ 8.75, 14.25, -2.375 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_195",
+			"from": [ 7.5, 14.25, -7.375 ],
+			"to": [ 8.5, 14.5, -2.375 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_196",
+			"from": [ 7.5, 14.75, -2.875 ],
+			"to": [ 8.75, 15, -2.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_197",
+			"from": [ 7.5, 14.75, -2.375 ],
+			"to": [ 8.5, 15, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_198",
+			"from": [ 7.5, 15, -7.125 ],
+			"to": [ 8.5, 15.25, -6.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_199",
+			"from": [ 7.5, 15, -6.875 ],
+			"to": [ 7.75, 15.25, -2.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_200",
+			"from": [ 7.625, 6.125, 9.375 ],
+			"to": [ 8.375, 6.625, 10.125 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_201",
+			"from": [ 7.625, 6.375, 10.125 ],
+			"to": [ 8.375, 6.625, 10.375 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_202",
+			"from": [ 7.625, 7.125, 10.375 ],
+			"to": [ 8.375, 8.625, 10.875 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_203",
+			"from": [ 7.625, 7.625, 10.125 ],
+			"to": [ 8.375, 8.625, 10.375 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_204",
+			"from": [ 7.625, 7.625, 10.875 ],
+			"to": [ 8.375, 8.625, 11.125 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_205",
+			"from": [ 7.625, 7.625, 11.125 ],
+			"to": [ 8.375, 8.375, 11.375 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_206",
+			"from": [ 7.625, 7.875, 11.375 ],
+			"to": [ 8.375, 8.375, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_207",
+			"from": [ 7.625, 8.125, 9.875 ],
+			"to": [ 8.375, 8.625, 10.125 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_208",
+			"from": [ 7.625, 8.375, 9.625 ],
+			"to": [ 8.375, 8.875, 9.875 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_209",
+			"from": [ 7.625, 11.625, 5.875 ],
+			"to": [ 8.375, 12.625, 6.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_210",
+			"from": [ 7.625, 12, 0.125 ],
+			"to": [ 8.375, 12.25, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_211",
+			"from": [ 7.625, 12.25, 0.125 ],
+			"to": [ 8.375, 12.5, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_212",
+			"from": [ 7.625, 12.625, 5.875 ],
+			"to": [ 8.375, 14.375, 6.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_213",
+			"from": [ 7.625, 15.375, 12.375 ],
+			"to": [ 8.375, 15.625, 12.75 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_214",
+			"from": [ 7.625, 15.5, -1.125 ],
+			"to": [ 8.375, 15.75, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_215",
+			"from": [ 7.625, 15.625, 12.375 ],
+			"to": [ 7.75, 15.75, 12.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_216",
+			"from": [ 7.625, 15.75, -0.625 ],
+			"to": [ 7.875, 16, 0.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_217",
+			"from": [ 7.625, 15.75, 0.625 ],
+			"to": [ 7.875, 16, 1.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_218",
+			"from": [ 7.625, 15.75, 1.625 ],
+			"to": [ 7.875, 16, 2.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_219",
+			"from": [ 7.625, 15.75, 2.625 ],
+			"to": [ 7.875, 16, 3.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_220",
+			"from": [ 7.625, 15.75, 3.625 ],
+			"to": [ 7.875, 16, 4.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_221",
+			"from": [ 7.625, 15.75, 4.625 ],
+			"to": [ 7.875, 16, 5.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_222",
+			"from": [ 7.625, 15.75, 5.625 ],
+			"to": [ 7.875, 16, 6.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_223",
+			"from": [ 7.625, 15.75, 6.625 ],
+			"to": [ 7.875, 16, 7.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_224",
+			"from": [ 7.625, 15.75, 7.625 ],
+			"to": [ 7.875, 16, 8.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_225",
+			"from": [ 7.625, 15.75, 8.625 ],
+			"to": [ 7.875, 16, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_226",
+			"from": [ 7.625, 6.625, 9.625 ],
+			"to": [ 8.375, 6.875, 10.625 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_227",
+			"from": [ 7.75, 12.375, 14.375 ],
+			"to": [ 8.25, 12.875, 14.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_228",
+			"from": [ 7.75, 12.375, 14.875 ],
+			"to": [ 8.25, 12.625, 15.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_229",
+			"from": [ 7.75, 12.625, 13.625 ],
+			"to": [ 8.25, 14.125, 14.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_230",
+			"from": [ 7.75, 12.875, 13.375 ],
+			"to": [ 8.25, 14.125, 13.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_231",
+			"from": [ 7.75, 13.375, 13.125 ],
+			"to": [ 8.25, 14.375, 13.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_232",
+			"from": [ 7.75, 13.875, 12.875 ],
+			"to": [ 8.25, 14.625, 13.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_233",
+			"from": [ 7.75, 13.875, 14.375 ],
+			"to": [ 8.25, 15.125, 14.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_234",
+			"from": [ 7.75, 14.125, 13.875 ],
+			"to": [ 8.25, 14.625, 14.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_235",
+			"from": [ 7.75, 14.125, 14.625 ],
+			"to": [ 8.25, 15.125, 14.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_236",
+			"from": [ 7.75, 14.375, 14.875 ],
+			"to": [ 8.25, 15.125, 15.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_237",
+			"from": [ 7.75, 14.625, 14.125 ],
+			"to": [ 8.25, 14.875, 14.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_238",
+			"from": [ 7.75, 14.625, 15.125 ],
+			"to": [ 8.25, 15.125, 15.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_239",
+			"from": [ 7.75, 15, -2.875 ],
+			"to": [ 8.25, 15.25, -2.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_240",
+			"from": [ 7.75, 15, -1.375 ],
+			"to": [ 8.25, 15.5, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_241",
+			"from": [ 7.75, 15.125, 3.625 ],
+			"to": [ 8.25, 15.5, 4.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_242",
+			"from": [ 7.75, 15.25, -6.875 ],
+			"to": [ 8.25, 15.5, -2.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_243",
+			"from": [ 7.75, 15.375, 4.125 ],
+			"to": [ 8.25, 15.5, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_244",
+			"from": [ 7.75, 15.375, 11.375 ],
+			"to": [ 8.25, 15.5, 12.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_245",
+			"from": [ 7.75, 15.5, 11.875 ],
+			"to": [ 8.25, 15.625, 12.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_246",
+			"from": [ 7.625, 6.875, 10.125 ],
+			"to": [ 8.375, 7.125, 10.875 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_247",
+			"from": [ 7.875, 10.375, 6.125 ],
+			"to": [ 8.125, 10.625, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_248",
+			"from": [ 7.875, 14.125, 6.125 ],
+			"to": [ 8.125, 14.375, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_249",
+			"from": [ 7.875, 15.5, -6.75 ],
+			"to": [ 8.125, 16, -4.5 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_250",
+			"from": [ 7.875, 16, -6.5 ],
+			"to": [ 8.125, 16.25, -4.5 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_251",
+			"from": [ 8.125, 15.75, -0.625 ],
+			"to": [ 8.375, 16, 0.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_252",
+			"from": [ 8.125, 15.75, 0.625 ],
+			"to": [ 8.375, 16, 1.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_253",
+			"from": [ 8.125, 15.75, 1.625 ],
+			"to": [ 8.375, 16, 2.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_254",
+			"from": [ 8.125, 15.75, 2.625 ],
+			"to": [ 8.375, 16, 3.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_255",
+			"from": [ 8.125, 15.75, 3.625 ],
+			"to": [ 8.375, 16, 4.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_256",
+			"from": [ 8.125, 15.75, 4.625 ],
+			"to": [ 8.375, 16, 5.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_257",
+			"from": [ 8.125, 15.75, 5.625 ],
+			"to": [ 8.375, 16, 6.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_258",
+			"from": [ 8.125, 15.75, 6.625 ],
+			"to": [ 8.375, 16, 7.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_259",
+			"from": [ 8.125, 15.75, 7.625 ],
+			"to": [ 8.375, 16, 8.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_260",
+			"from": [ 8.125, 15.75, 8.625 ],
+			"to": [ 8.375, 16, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_261",
+			"from": [ 8.25, 11.25, 3.375 ],
+			"to": [ 8.5, 11.75, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_262",
+			"from": [ 8.25, 11.375, -0.25 ],
+			"to": [ 8.5, 11.75, 3.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_263",
+			"from": [ 8.25, 11.5, -0.375 ],
+			"to": [ 8.5, 11.75, -0.25 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_264",
+			"from": [ 8.25, 11.625, -0.5 ],
+			"to": [ 8.5, 11.75, -0.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_265",
+			"from": [ 8.25, 15, -6.875 ],
+			"to": [ 8.5, 15.25, -2.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_266",
+			"from": [ 8.25, 15.625, 12.375 ],
+			"to": [ 8.375, 15.75, 12.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_267",
+			"from": [ 8.375, 11.875, 0.125 ],
+			"to": [ 8.75, 12, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_268",
+			"from": [ 8.375, 12, 0 ],
+			"to": [ 8.75, 12.5, 0.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_269",
+			"from": [ 8.375, 12.5, 0.125 ],
+			"to": [ 9, 12.625, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_270",
+			"from": [ 8.5, 11.75, -0.625 ],
+			"to": [ 8.75, 12.25, 0 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_271",
+			"from": [ 8.5, 11.75, 0 ],
+			"to": [ 8.75, 12, 0.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_272",
+			"from": [ 8.5, 11.75, 0.125 ],
+			"to": [ 8.75, 11.875, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_273",
+			"from": [ 8.5, 11.875, -1.375 ],
+			"to": [ 8.75, 12.25, -0.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_274",
+			"from": [ 8.5, 12.5, -7 ],
+			"to": [ 8.75, 12.75, -1.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_275",
+			"from": [ 8.5, 13, -7.375 ],
+			"to": [ 9.25, 13.25, -7.25 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_276",
+			"from": [ 8.5, 13.25, -7.375 ],
+			"to": [ 8.75, 14.25, -2.625 ],
+			"faces": {
+				"down": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 12.96, 4.96, 15.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_277",
+			"from": [ 8.5, 14.25, -7.375 ],
+			"to": [ 9.25, 14.5, -7.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_278",
+			"from": [ 8.5, 14.5, -1.375 ],
+			"to": [ 8.75, 14.75, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_279",
+			"from": [ 8.5, 14.75, -6.875 ],
+			"to": [ 8.75, 15, -2.875 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_280",
+			"from": [ 8.625, 10.875, 11.375 ],
+			"to": [ 8.875, 13.875, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_281",
+			"from": [ 8.625, 11.25, 11.5 ],
+			"to": [ 8.875, 11.375, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_282",
+			"from": [ 8.625, 11.5, 11.5 ],
+			"to": [ 9.125, 11.625, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_283",
+			"from": [ 8.625, 13.125, 11.5 ],
+			"to": [ 9.125, 13.375, 11.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_284",
+			"from": [ 8.75, 12.25, -6.875 ],
+			"to": [ 9, 12.5, 0.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_285",
+			"from": [ 8.75, 12.375, -7 ],
+			"to": [ 9, 12.5, -6.875 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_286",
+			"from": [ 8.75, 12.5, -1.375 ],
+			"to": [ 9, 12.75, 0.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_287",
+			"from": [ 8.75, 12.625, 0.125 ],
+			"to": [ 9, 12.75, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_288",
+			"from": [ 8.75, 12.75, -7.125 ],
+			"to": [ 9, 13, -1.375 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_289",
+			"from": [ 8.75, 12.875, -7.25 ],
+			"to": [ 9, 13, -7.125 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_290",
+			"from": [ 8.75, 13.25, -7.375 ],
+			"to": [ 9.25, 13.75, -7.25 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_291",
+			"from": [ 8.75, 13.75, -7.375 ],
+			"to": [ 9.25, 14.25, -7.125 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_292",
+			"from": [ 8.75, 14.25, -1.375 ],
+			"to": [ 9, 14.5, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_293",
+			"from": [ 8.75, 14.5, -7.125 ],
+			"to": [ 9, 14.75, -2.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_294",
+			"from": [ 8.875, 11.125, 11.375 ],
+			"to": [ 9.125, 13.625, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_295",
+			"from": [ 9, 12, -6.625 ],
+			"to": [ 9.25, 12.25, -2.125 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_296",
+			"from": [ 9, 12.25, -6.375 ],
+			"to": [ 9.25, 12.5, -2.375 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 4.96, 4.96, 7.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_297",
+			"from": [ 9, 12.75, -1.375 ],
+			"to": [ 9.25, 13, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 4.96, 11.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_298",
+			"from": [ 9, 13, -7.25 ],
+			"to": [ 9.25, 13.75, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_299",
+			"from": [ 9, 13.75, -7.125 ],
+			"to": [ 9.25, 14.5, -2.375 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_300",
+			"from": [ 9, 13.75, -2.375 ],
+			"to": [ 9.25, 14.25, 3.625 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_301",
+			"from": [ 9.125, 11.375, 11.375 ],
+			"to": [ 9.375, 13.375, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		},
+		{
+			"__comment": "parts_302",
+			"from": [ 9.375, 11.625, 11.375 ],
+			"to": [ 9.625, 13.125, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"south": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"west": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" },
+				"east": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#r8_revolver_a" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation":  [ 0, 0, -0.695 ],
+			"scale":  [ 0.3, 0.3, 0.3 ]
+		},
+		"thirdperson_lefthand": {
+			"translation":  [ 0, 0, -0.695 ],
+			"scale":  [ 0.3, 0.3, 0.3 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, -13, 5 ],
+			"translation":  [ -2.782, 2.7826, 4.1738 ],
+			"scale":  [ 0.4, 0.4, 0.3 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, -13, 5 ],
+			"translation":  [ -2.782, 2.7826, 4.1738 ],
+			"scale":  [ 0.4, 0.4, 0.3 ]
+		},
+		"gui": {
+			"rotation":  [ 90, 70, -90 ],
+			"translation":  [ 0.6956, -0.695, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"head": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"ground": {
+			"rotation":  [ 0, 0, -90 ],
+			"scale":  [ 0.3, 0.3, 0.3 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ -0.695, -0.695, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		}
+	},
+	"overrides": [
+	]
+}
