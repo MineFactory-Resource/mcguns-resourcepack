@@ -2,12 +2,20 @@
   "parent": "item/handheld",
   "overrides": [
  	{"predicate": { "custom_model_data": 100000 },"model": "csgo/gun/p250/p250_a"},
+	{"predicate": { "custom_model_data": 101000 },"model": "csgo/gun/p250/p250_b"},
 	{"predicate": { "custom_model_data": 200000 },"model": "csgo/gun/desert_eagle/desert_eagle_a"},
+	{"predicate": { "custom_model_data": 201000 },"model": "csgo/gun/desert_eagle/desert_eagle_b"},
 	{"predicate": { "custom_model_data": 300000 },"model": "csgo/gun/nova/nova_a"},
+	{"predicate": { "custom_model_data": 301000 },"model": "csgo/gun/nova/nova_b"},
 	{"predicate": { "custom_model_data": 400000 },"model": "csgo/gun/mp7/mp7_a"},
+	{"predicate": { "custom_model_data": 401000 },"model": "csgo/gun/mp7/mp7_b"},
     {"predicate": { "custom_model_data": 500000 },"model": "csgo/gun/ak47/ak47_a"},
+	{"predicate": { "custom_model_data": 501000 },"model": "csgo/gun/ak47/ak47_b"},
 	{"predicate": { "custom_model_data": 600000 },"model": "csgo/gun/m4a1/m4a1_a"},
+	{"predicate": { "custom_model_data": 601000 },"model": "csgo/gun/m4a1/m4a1_b"},
 	{"predicate": { "custom_model_data": 700000 },"model": "csgo/gun/awp/awp_a"},
-	{"predicate": { "custom_model_data": 800000 },"model": "csgo/gun/p90/p90_a"}
+	{"predicate": { "custom_model_data": 701000 },"model": "csgo/gun/awp/awp_b"},
+	{"predicate": { "custom_model_data": 800000 },"model": "csgo/gun/p90/p90_a"},
+	{"predicate": { "custom_model_data": 801000 },"model": "csgo/gun/p90/p90_b"}
   ]
 }
